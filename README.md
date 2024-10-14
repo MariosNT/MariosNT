@@ -2,6 +2,10 @@
 
 I'm a researcher on Astrophysics and Cosmology, with emphasis on multimessenger applications 🌌 
 
+🔭 I’m currently working on GWs Astrophysics, trying to understand what the population of BBHs can tell us about their formation scenarios and on applications of GWs in cosmology. More specifically, investigating the power of the *dark sirens* technique and constraining modifications on general relativity.
+
+📫 You can find me at `marios.kalomenopoulos@unlv.edu` for any questions or/and scientific discussions!
+
 <!--
 **MariosNT/MariosNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
